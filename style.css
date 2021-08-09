@@ -1,0 +1,22 @@
+
+    h1{
+        color:blue;
+    }
+    
+        .grid{
+        background-color: #4f9633;
+        display:flex;
+        justify-content: space-evenly;
+    }
+    .item{
+        display:flex;
+        justify-content: left;
+        text-align: center;
+        flex-wrap:wrap;
+        border: solid;
+      color: rgb(231, 18, 18);
+      font-size: larger;
+      margin-top: auto;
+      font-style: initial;
+        background-color: rgb(17, 172, 233);
+    }
